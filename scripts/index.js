@@ -131,7 +131,7 @@ function randomizeDefenders() {
 // --- Initialization on Page Load ---
 
 document.addEventListener('DOMContentLoaded', async () => {
-    allAttackers = await fetchOperators('/OperatorRandomizerWebsite/attackers.json');
-    allDefenders = await fetchOperators('/OperatorRandomizerWebsite/defenders.json');
+    allAttackers = await fetchOperators('/OperatorRandomizer/attackers.json');
+    allDefenders = await fetchOperators('/OperatorRandomizer/defenders.json');
     randomizeAttackers();
 });

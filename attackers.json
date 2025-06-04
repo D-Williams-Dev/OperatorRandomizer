@@ -2,229 +2,229 @@
   {
     "id": "striker",
     "name": "Striker",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/striker.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/striker.svg"
   },
 
   {
     "id": "sledge",
     "name": "Sledge",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/sledge.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/sledge.svg"
   },
 
   {
     "id": "thatcher",
     "name": "Thatcher",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/thatcher.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/thatcher.svg"
   },
 
   {
     "id": "thermite",
     "name": "Thermite",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/thermite.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/thermite.svg"
   },
 
   {
     "id": "ash",
     "name": "Ash",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/ash.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/ash.svg"
   },
 
   {
     "id": "twitch",
     "name": "Twitch",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/twitch.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/twitch.svg"
   },
 
   {
     "id": "montagne",
     "name": "Montagne",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/montagne.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/montagne.svg"
   },
 
   {
     "id": "fuze",
     "name": "Fuze",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/fuze.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/fuze.svg"
   },
 
   {
     "id": "glaz",
     "name": "Glaz",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/glaz.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/glaz.svg"
   },
 
   {
     "id": "blitz",
     "name": "Blitz",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/blitz.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/blitz.svg"
   },
 
   {
     "id": "iq",
     "name": "IQ",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/iq.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/iq.svg"
   },
 
   {
     "id": "buck",
     "name": "Buck",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/buck.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/buck.svg"
   },
 
   {
     "id": "blackbeard",
     "name": "Blackbeard",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/blackbeard.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/blackbeard.svg"
   },
 
   {
     "id": "capitao",
     "name": "Capitao",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/capitao.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/capitao.svg"
   },
 
   {
     "id": "hibana",
     "name": "Hibana",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/hibana.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/hibana.svg"
   },
 
   {
     "id": "jackal",
     "name": "Jackal",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/jackal.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/jackal.svg"
   },
 
   {
     "id": "ying",
     "name": "Ying",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/ying.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/ying.svg"
   },
 
   {
     "id": "zofia",
     "name": "Zofia",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/zofia.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/zofia.svg"
   },
 
   {
     "id": "dokkaebi",
     "name": "Dokkaebi",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/dokkaebi.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/dokkaebi.svg"
   },
 
   {
     "id": "lion",
     "name": "Lion",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/lion.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/lion.svg"
   },
 
   {
     "id": "finka",
     "name": "Finka",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/finka.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/finka.svg"
   },
 
   {
     "id": "maverick",
     "name": "Maverick",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/maverick.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/maverick.svg"
   },
 
   {
     "id": "nomad",
     "name": "Nomad",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/nomad.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/nomad.svg"
   },
 
   {
     "id": "gridlock",
     "name": "Gridlock",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/gridlock.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/gridlock.svg"
   },
 
   {
     "id": "nokk",
     "name": "Nokk",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/nokk.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/nokk.svg"
   },
 
   {
     "id": "amaru",
     "name": "Amaru",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/amaru.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/amaru.svg"
   },
 
   {
     "id": "kali",
     "name": "Kali",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/kali.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/kali.svg"
   },
 
   {
     "id": "iana",
     "name": "Iana",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/iana.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/iana.svg"
   },
 
   {
     "id": "ace",
     "name": "Ace",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/ace.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/ace.svg"
   },
 
   {
     "id": "zero",
     "name": "Zero",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/zero.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/zero.svg"
   },
 
   {
     "id": "flores",
     "name": "Flores",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/flores.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/flores.svg"
   },
 
   {
     "id": "osa",
     "name": "Osa",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/osa.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/osa.svg"
   },
 
   {
   "id": "sens",
     "name": "Sens",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/sens.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/sens.svg"
   },
 
   {
     "id": "grim",
     "name": "Grim",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/grim.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/grim.svg"
   },
 
   {
     "id": "brava",
     "name": "Brava",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/brava.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/brava.svg"
   },
 
   {
     "id": "ram",
     "name": "Ram",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/ram.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/ram.svg"
   },
 
   {
     "id": "deimos",
     "name": "Deimos",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/deimos.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/deimos.svg"
   },
 
   {
     "id": "rauora",
     "name": "Rauora",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/rauora.svg"
+    "iconPath": "/OperatorRandomizer/assets/attackers/rauora.svg"
   }
 
 ]

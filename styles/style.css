@@ -10,6 +10,10 @@ body {
     background-color: #1a2a3a;
 }
 
+img[alt] {
+    color: white;
+}
+
 .operator-box-container {
     display: flex;
     border: 1px solid black;
