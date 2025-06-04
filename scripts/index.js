@@ -14,8 +14,8 @@ async function fetchOperators(filePath) {
 }
 
 document.addEventListener('DOMContentLoaded', async () => {
-    allAttackers = await fetchOperators('../attackers.json');
-    allDefenders = await fetchOperators('../defenders.json');
+    allAttackers = await fetchOperators('/OperatorRandomizerWebsite/attackers.json');
+    allDefenders = await fetchOperators('/OperatorRandomizerWebsite/defenders.json');
 });
 
 let allAttackers = [];
