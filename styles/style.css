@@ -1,0 +1,83 @@
+
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url("../assets/background image/black-ice-2.jpg");
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    background-position: center;
+    background-color: #1a2a3a;
+}
+
+.operator-box-container {
+    display: flex;
+    border: 1px solid black;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-top: 50px;
+}
+
+.operatorOne, .operatorTwo, .operatorThree, .operatorFour,  .operatorFive {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    min-height: 350px;
+    background-color: rgba(0,0,0,0.4);
+    justify-content: center;
+}
+
+.operator-images img {
+    max-width: 50%;
+    object-fit: contain;
+    object-position: center;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.operator-name {
+    text-align: center;
+    font-size: 2rem;
+}
+
+/* Styles for the container holding the buttons */
+.randomize-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 85%;
+    margin: 20px auto;
+    gap: 40px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* Styles for the individual buttons */
+.randomize-buttons button {
+    flex: 1;
+    flex-basis: 360px;
+    min-width: 150px;
+    max-width: 360px;
+    padding: 15px 30px;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+
+#randomize-attack-button {
+    background-color: #3066CC;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+}
+
+#randomize-defender-button {
+    background-color: darkorange;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+}
