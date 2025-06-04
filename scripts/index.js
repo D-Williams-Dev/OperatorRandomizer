@@ -1,4 +1,3 @@
-// 1. Declare global variables at the top.
 // This ensures they are available before any functions try to use them.
 let allAttackers = [];
 let allDefenders = [];
