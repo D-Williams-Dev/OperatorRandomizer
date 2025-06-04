@@ -164,7 +164,7 @@
   {
     "id": "iana",
     "name": "Iana",
-    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/Iana.svg"
+    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/iana.svg"
   },
 
   {
@@ -218,7 +218,7 @@
   {
     "id": "deimos",
     "name": "Deimos",
-    "iconPath": "/OperatorRandomizerWebsite/ssets/attackers/deimos.svg"
+    "iconPath": "/OperatorRandomizerWebsite/assets/attackers/deimos.svg"
   },
 
   {
