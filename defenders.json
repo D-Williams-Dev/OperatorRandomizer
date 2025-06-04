@@ -2,222 +2,222 @@
   {
     "id": "sentry",
     "name": "Sentry",
-    "iconPath": "../assets/defenders/sentry.svg"
+    "iconPath": "assets/defenders/sentry.svg"
   },
 
   {
     "id": "smoke",
     "name": "Smoke",
-    "iconPath": "../assets/defenders/smoke.svg"
+    "iconPath": "assets/defenders/smoke.svg"
   },
 
   {
     "id": "mute",
     "name": "Mute",
-    "iconPath": "../assets/defenders/mute.svg"
+    "iconPath": "assets/defenders/mute.svg"
   },
 
   {
     "id": "castle",
     "name": "Castle",
-    "iconPath": "../assets/defenders/castle.svg"
+    "iconPath": "assets/defenders/castle.svg"
   },
 
   {
     "id": "pulse",
     "name": "Pulse",
-    "iconPath": "../assets/defenders/pulse.svg"
+    "iconPath": "assets/defenders/pulse.svg"
   },
 
   {
     "id": "doc",
     "name": "Doc",
-    "iconPath": "../assets/defenders/doc.svg"
+    "iconPath": "assets/defenders/doc.svg"
   },
 
   {
     "id": "rook",
     "name": "Rook",
-    "iconPath": "../assets/defenders/rook.svg"
+    "iconPath": "assets/defenders/rook.svg"
   },
 
   {
     "id": "kapkan",
     "name": "Kapkan",
-    "iconPath": "../assets/defenders/kapkan.svg"
+    "iconPath": "assets/defenders/kapkan.svg"
   },
 
   {
     "id": "tachanka",
     "name": "Tachanka",
-    "iconPath": "../assets/defenders/tachanka.svg"
+    "iconPath": "assets/defenders/tachanka.svg"
   },
 
   {
     "id": "jager",
     "name": "Jager",
-    "iconPath": "../assets/defenders/jager.svg"
+    "iconPath": "assets/defenders/jager.svg"
   },
 
   {
     "id": "bandit",
     "name": "Bandit",
-    "iconPath": "../assets/defenders/bandit.svg"
+    "iconPath": "assets/defenders/bandit.svg"
   },
 
   {
     "id": "frost",
     "name": "Frost",
-    "iconPath": "../assets/defenders/frost.svg"
+    "iconPath": "assets/defenders/frost.svg"
   },
 
   {
     "id": "valkyrie",
     "name": "Valkyrie",
-    "iconPath": "../assets/defenders/valkyrie.svg"
+    "iconPath": "assets/defenders/valkyrie.svg"
   },
 
   {
     "id": "caveira",
     "name": "Caveira",
-    "iconPath": "../assets/defenders/caveira.svg"
+    "iconPath": "assets/defenders/caveira.svg"
   },
 
   {
     "id": "echo",
     "name": "Echo",
-    "iconPath": "../assets/defenders/echo.svg"
+    "iconPath": "assets/defenders/echo.svg"
   },
 
   {
     "id": "mira",
     "name": "Mira",
-    "iconPath": "../assets/defenders/mira.svg"
+    "iconPath": "assets/defenders/mira.svg"
   },
 
   {
     "id": "lesion",
     "name": "Lesion",
-    "iconPath": "../assets/defenders/lesion.svg"
+    "iconPath": "assets/defenders/lesion.svg"
   },
 
   {
     "id": "ela",
     "name": "Ela",
-    "iconPath": "../assets/defenders/ela.svg"
+    "iconPath": "assets/defenders/ela.svg"
   },
 
   {
     "id": "vigil",
     "name": "Vigil",
-    "iconPath": "../assets/defenders/vigil.svg"
+    "iconPath": "assets/defenders/vigil.svg"
   },
 
   {
     "id": "alibi",
     "name": "Alibi",
-    "iconPath": "../assets/defenders/alibi.svg"
+    "iconPath": "assets/defenders/alibi.svg"
   },
 
   {
     "id": "maestro",
     "name": "Maestro",
-    "iconPath": "../assets/defenders/maestro.svg"
+    "iconPath": "assets/defenders/maestro.svg"
   },
 
   {
     "id": "clash",
     "name": "Clash",
-    "iconPath": "../assets/defenders/clash.svg"
+    "iconPath": "assets/defenders/clash.svg"
   },
 
   {
     "id": "kaid",
     "name": "Kaid",
-    "iconPath": "../assets/defenders/kaid.svg"
+    "iconPath": "assets/defenders/kaid.svg"
   },
 
   {
     "id": "mozzie",
     "name": "Mozzie",
-    "iconPath": "../assets/defenders/mozzie.svg"
+    "iconPath": "assets/defenders/mozzie.svg"
   },
 
   {
     "id": "warden",
     "name": "Warden",
-    "iconPath": "../assets/defenders/warden.svg"
+    "iconPath": "assets/defenders/warden.svg"
   },
 
   {
     "id": "goyo",
     "name": "Goyo",
-    "iconPath": "../assets/defenders/goyo.svg"
+    "iconPath": "assets/defenders/goyo.svg"
   },
 
   {
     "id": "wamai",
     "name": "Wamai",
-    "iconPath": "../assets/defenders/wamai.svg"
+    "iconPath": "assets/defenders/wamai.svg"
   },
 
   {
     "id": "oryx",
     "name": "Oryx",
-    "iconPath": "../assets/defenders/oryx.svg"
+    "iconPath": "assets/defenders/oryx.svg"
   },
 
   {
     "id": "melusi",
     "name": "Melusi",
-    "iconPath": "../assets/defenders/melusi.svg"
+    "iconPath": "assets/defenders/melusi.svg"
   },
 
   {
     "id": "aruni",
     "name": "Aruni",
-    "iconPath": "../assets/defenders/aruni.svg"
+    "iconPath": "assets/defenders/aruni.svg"
   },
 
   {
     "id": "thunderbird",
     "name": "Thunderbird",
-    "iconPath": "../assets/defenders/thunderbird.svg"
+    "iconPath": "assets/defenders/thunderbird.svg"
   },
 
   {
     "id": "thorn",
-    "name": "thorn",
-    "iconPath": "../assets/defenders/thorn.svg"
+    "name": "Thorn",
+    "iconPath": "assets/defenders/thorn.svg"
   },
 
   {
     "id": "azami",
     "name": "Azami",
-    "iconPath": "../assets/defenders/azami.svg"
+    "iconPath": "assets/defenders/azami.svg"
   },
 
   {
     "id": "solis",
     "name": "Solis",
-    "iconPath": "../assets/defenders/solis.svg"
+    "iconPath": "assets/defenders/solis.svg"
   },
 
   {
     "id": "fenrir",
     "name": "Fenrir",
-    "iconPath": "../assets/defenders/fenrir.svg"
+    "iconPath": "assets/defenders/fenrir.svg"
   },
 
   {
     "id": "tubarao",
     "name": "Tubarao",
-    "iconPath": "../assets/defenders/tubarao.svg"
+    "iconPath": "assets/defenders/tubarao.svg"
   },
 
   {
     "id": "skopos",
     "name": "Skopos",
-    "iconPath": "../assets/defenders/skopos.svg"
+    "iconPath": "assets/defenders/skopos.svg"
   }
 ]
